@@ -1,0 +1,1 @@
+Built with Python and leveraging Streamlit, Plotly Express, and Requests, my weather forecast web app allows users to input a location, choose the number of forecast days, and specify the type of weather data (temperature or sky conditions). It fetches real-time data from an API and presents the forecast visually through interactive graphs or images."
