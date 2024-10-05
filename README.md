@@ -11,7 +11,14 @@ This Weather Forecast App is a simple application built with Python and Streamli
 
 ## 🖼️ Screenshots
 
-![Weather App Screenshot](path/to/screenshot.png)
+- **Weather App Main Interface:**
+![Weather App Screenshot 1](weather1.png)
+
+- **Weather App Temperature Forecast:**
+![Weather App Screenshot 2](weather2.png)
+
+- **Weather App Sky Conditions:**
+![Weather App Screenshot 3](weather3.png)
 
 ## 🛠️ Technologies Used
 
